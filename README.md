@@ -1,1 +1,1 @@
-# free-skins-dota2
+# Free Skins Generator for Dota2
