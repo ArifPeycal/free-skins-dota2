@@ -6,6 +6,8 @@
 > 🛡️ 100% Safe & Secure – No account bans!  
 > 🚀 Works on all Windows versions!  
 
+![image](https://github.com/user-attachments/assets/f22a470d-6a01-4995-9a08-e7747a7c6b21)
+
 ---
 
 ## 📥 Download & Installation
